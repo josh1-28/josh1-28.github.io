@@ -1,0 +1,33 @@
+html {margin: 0px;}
+h1 {margin: 0px;}
+body {
+    background-color: rgb(0, 255, 128);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0px;
+    margin: auto;
+    }
+ul {margin: 0px} 
+    #main_header{
+        background-color: aquamarine;
+        margin: auto;
+    }
+body>header {
+    background-color: ORANGe;
+    font-size: large;
+    margin: 0px;
+    }
+body>main {background-color: bisque;
+    font-weight: 700; 
+    margin: auto;
+    }
+body>main>aside>h2 {background-color: rgb(0, 255, 255);
+    }
+cite>a {display:inline-block;
+        width: 100px;
+        margin: auto;
+    }
+form {
+    text-align: center;
+}
+h2 {text-align: center;}
+h3 {text-align: center;}
